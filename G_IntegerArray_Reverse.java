@@ -6,7 +6,6 @@ public class G_IntegerArray_Reverse {
         System.out.println("Enter the Size of Array: ");
         int size = sc.nextInt();
         int [] numbers = new int[size];
-       
         //input
         for (int i=0;i<size;i++){
             numbers[i] =sc.nextInt();
